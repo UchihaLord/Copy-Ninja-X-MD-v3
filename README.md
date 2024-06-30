@@ -5,18 +5,18 @@
 
 ___
 
-[-](https://github.com/Xcelsama/STAR-V2) [ℹ️ FOLLOW FOR UPDATES
-](https://github.com/Xcelsama)
+[-](https://github.com/UchihaLord/Copy-Ninja-X-MD-v3) [ℹ️ FOLLOW FOR UPDATES
+](https://github.com/UchihaLord)
 ___
 
 
 ##  ℹ️```Bot Intro```ℹ️
->[STAR-MD-V2](https://github.com/Xcelsama/STAR-MD-V2) is based on :
+>[COPY-NINJA-X-MD-V3](https://github.com/UchihaLord/Copy-Nimja-Ninja-X-MD) is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-[![STAR-MD-V2](https://i.imgur.com/2gd0YRc.jpeg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+[![Copy-Ninja-X-MD-v3](https://i.imgur.com/2gd0YRc.jpeg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 </p>
 
    
@@ -26,7 +26,7 @@ ___
 </p>
   
 ##
-STAR-MD-V2 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
+Copy-Ninja-X-MD-v3 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [Ashh Lazly](https://github.com/UchihaLord) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
 ---------
 
@@ -34,7 +34,7 @@ STAR-MD-V2 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the ta
 
 
  
-<h1 align="center"> 🛰𝖲𝖳𝖠𝖱-𝖬𝖣-𝖵𝟤🛰
+<h1 align="center"> 🛰Copy-Ninja-X-MD-v3🛰
 </p>
  
 ---------
@@ -42,8 +42,8 @@ STAR-MD-V2 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the ta
 </p>
 
 </a>
-   <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
- <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+   <a aria-label="Copy-Ninja-X-MD-v3 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+ <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="UchihaLord:: Visitor's Count" /></p>
 
 
 
@@ -69,7 +69,7 @@ ___
 
 
 <a 
-href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
+href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/Copy-Ninja-X-MD-v3/reviews/badge.svg" alt="Open Source Agenda"></a> 
 ---------
 
 ___
@@ -82,7 +82,7 @@ ___
 ___
 - FORK THE REPOSITORY
 
-<a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+<a href="https://github.com/UchihaLord/Copy-Ninja-X-MD-v3/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -224,9 +224,9 @@ ___
 
 ## 💐Do you need help💐
 This is the section that provides help. 
-- [TUTORIAL](https://github.com/Xcelsama/HOW-TO-DEPLOY-STAR-MD-V2) 
+- [TUTORIAL](https://github.com/UchihaLord/HOW-TO-DEPLOY-STAR-MD-V2) 
 - [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
-- [MESSAGE DEVELOPER](https://wa.me/+2347045035241) 
+- [MESSAGE DEVELOPER](https://wa.me/+263788521064) 
 
 
 
@@ -241,4 +241,4 @@ This is the section that provides help.
 
 
 ## `💀DEVELOPER💀` 
-<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
+<a href="https://github.com/UchihaLord"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="UchihaLord"/></a>
